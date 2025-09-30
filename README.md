@@ -18,4 +18,18 @@ The goal is to build and evaluate classification models that help identify patte
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## Repository Structure
+
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tajerome/Academic-Success.git
+   cd Academic-Success
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+
+
+
